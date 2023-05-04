@@ -11,7 +11,7 @@ A Chrome extension that boosts your ChatGPT conversation!
 Currently, the extension is still under development and it may take some time for me to publish a beta release of that extension. <br>
 In the meantime, you can [follow my LinkedIn](https://www.linkedin.com/in/ron-nuss-28b762274/), I will post updates and previews about the extension there.
 
-## What is the search engine the extension used?
+## What is the search engine that is being used in the extension?
 The extension uses the DuckDuckGo Instant Answer API.
 
 ## License?
