@@ -5,7 +5,7 @@ A Chrome extension that boosts your ChatGPT conversation!
 - [x] Prompts library
 - [x] Website themes
 - [x] Include web results (using <kbd>Alt</kbd> + <kbd>S</kbd> on input)
-- [x] AI prompt maker by keywords. (using <kbd>Alt</kbd> + <kbd>P<kbd> on input. It will replace the current input to the generated prompt in ~30-45 seconds.)
+- [x] AI prompt maker by keywords. (using <kbd>Alt</kbd> + <kbd>P</kbd> on input. It will replace the current input to the generated prompt in ~30-45 seconds.)
 
 ## When will it be released?
 Currently, the extension is still under development and it may take some time for me to publish a beta release of that extension. <br>
