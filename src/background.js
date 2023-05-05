@@ -6,7 +6,7 @@ function checkForMenuOnPage() {
   );
 }
 chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
-  console.log(tab);
+  //console.log(tab);
   //I used the line above for debugging
   if (
     (tab.url &&
