@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "BlueChat",
+  "version": "0.7.0",
+  "description": "Boost your ChatGPT conversations!",
+  "icons": {
+    "128": "icons/logo.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["src/commands.json", "src/themes/forest.css"],
+      "matches": ["https://chat.openai.com/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "host_permissions": [
+    "https://api.duckduckgo.com/*",
+    "https://chat.openai.com/*",
+    "https://merve-chatgpt-prompt-generator.hf.space/run/predict"
+  ],
+  "permissions": ["tabs", "activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": ["src/index.js"]
+    }
+  ]
+}
