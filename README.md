@@ -1,3 +1,11 @@
+# 🛑 Project Archived
+
+**Please Note: This project has been archived and is no longer actively maintained.**
+
+Thank you for your interest in this repository. As of 6 Av תשפ"ג (24th July 2023), I have decided to archive this project and will not be accepting any further contributions or addressing issues.
+
+After careful consideration and evaluation, I have decided to archive this project repository due to its limited visibility and usage, falling short of the expectations I initially had for it. Despite my best efforts in creating and maintaining this project, it did not gain the level of attention or adoption I had hoped for. As a result, I believe that dedicating further time and resources to this particular project would not be the most productive use of my efforts. Also, I did not planned any further updates for it after such a long time.
+***
 # bluechat
 A Chrome extension that boosts your ChatGPT conversation!
 
